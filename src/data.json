@@ -1,0 +1,342 @@
+{
+  "butter":
+    {
+      "price": "465",
+      "vol": "1000",
+      "unit": "grams"
+
+    },
+  "refined flour": 
+    {
+      "price": "31",
+      "vol": "1000",
+      "unit": "grams"
+
+    },
+  "icing sugar": 
+    {
+      "price": "62",
+      "vol": "1000",
+      "unit": "grams"
+
+    },
+  "rice flour":
+    {
+      "price": "36",
+      "vol": "1000",
+      "unit": "grams"
+
+    },
+  "vanilla essence":
+    {
+      "price": "434",
+      "vol": "1000",
+      "unit": "grams"
+
+    },
+  "eggs":
+    {
+      "price": "5.50",
+      "vol": "50",
+      "unit": "grams"
+    },
+  "cocoa powder":
+    {
+      "price": "1420",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "baking powder":
+    {
+      "price": "76.50",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "salt":
+    {
+      "price": "18",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "milk":
+    {
+      "price": "60",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "castor sugar": 
+    {
+      "price": "61",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "brown sugar": 
+    {
+      "price": "85",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "invert sugar": 
+    {
+      "price": "44.14",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "dark chocolate": 
+    {
+      "price": "1065",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "liquid glucose": 
+    {
+      "price": "85",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "honey": 
+    {
+      "price": "342",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  , 
+  "raisin dark": 
+    {
+      "price": "160",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "candid orange": 
+    {
+      "price": "495",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "rum": 
+    {
+      "price": "820",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "almond": 
+    {
+      "price": "735",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "almond flour": 
+    {
+      "price": "890",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "wheat flour": 
+    {
+      "price": "22",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "baking soda": 
+    {
+      "price": "32",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "egg white": 
+    {
+      "price": "3.30",
+      "vol": "30",
+      "unit": "grams"
+    }
+  ,
+  "egg yolk": 
+    {
+      "price": "2.20",
+      "vol": "20",
+      "unit": "grams"
+    }
+  ,
+  "Dessicated Coconut": 
+    {
+      "price": "276.50",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "peanut butter": 
+    {
+      "price": "126",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "Pistachio": 
+    {
+      "price": "1395",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "Dried Cranberries": 
+    {
+      "price": "400",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "orange juice": 
+    {
+      "price": "83",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "orange zest": 
+    {
+      "price": "215",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "pectin": 
+    {
+      "price": "5250",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "ginger powder": 
+    {
+      "price": "199",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "golden syrup": 
+    {
+      "price": "262",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "cocao nibs": 
+    {
+      "price": "1550",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "almond flakes": 
+    {
+      "price": "800",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  "sweet paste": 
+    {
+      "price": "146",
+      "vol": "930",
+      "unit": "grams"
+    } ,
+  "walnut": 
+    {
+      "price": "800",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "oil": 
+    {
+      "price": "95",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "figs": 
+    {
+      "price": "700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "lemon": 
+    {
+      "price": "100",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "white chocolate": 
+    {
+      "price": "1055",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "mazipan": 
+    {
+      "price": "1700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "jaggery": 
+    {
+      "price": "100",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "corn flour": 
+    {
+      "price": "76.50",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "cream of tarter": 
+    {
+      "price": "760",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  "almond essence": 
+    {
+      "price": "453",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    "Gluten": 
+    {
+      "price": "250",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    "Bread Improver": 
+    {
+      "price": "375",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    "Cheddar cheese": 
+    {
+      "price": "670",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    "Fresh Yeast": 
+    {
+      "price": "115",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  
+
+}
+

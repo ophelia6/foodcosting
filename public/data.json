@@ -1,0 +1,790 @@
+
+ [   
+      {
+        "name":"butter",
+        "price": "465",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+      {
+        "name":"Amul Butter",
+        "price": "265",
+        "vol": "500",
+        "unit": "grams"
+
+      },
+      {
+        "name" :"Dmart flour",
+        "price": "27",
+        "vol": "500",
+        "unit": "grams"
+
+      },
+      {
+        "name" :"refined flour",
+        "price": "31",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+      {
+        "name":  "Mawana icing sugar",
+        "price": "140",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+      {
+        "name":  "icing sugar",
+        "price": "62",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+      {
+        "name":"rice flour",
+        "price": "36",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+      {
+        "name":"flying bird vanilla essence",
+        "price": "50",
+        "vol": "20",
+        "unit": "grams"
+
+      },
+      {
+        "name":"vanilla essence",
+        "price": "434",
+        "vol": "1000",
+        "unit": "grams"
+
+      },
+    
+      {
+        "name":"eggs",
+        "price": "5.50",
+        "vol": "50",
+        "unit": "grams"
+      },
+      {
+        "name":"Hersheys cocoa powder",
+        "price": "285",
+        "vol": "225",
+        "unit": "grams"
+      },
+      {
+        "name":"cocoa powder",
+        "price": "1420",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Coffee Bean",
+        "price": "485",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"baking powder",
+        "price": "76.50",
+        "vol": "1000",
+        "unit": "grams"
+      },
+    
+      {
+        "name":"salt",
+        "price": "18",
+        "vol": "1000",
+        "unit": "grams"
+      },
+    
+      {
+        "name":"Amul milk",
+        "price": "70",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Heavy Cream",
+        "price": "475",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Amul Cream",
+        "price": "67",
+        "vol": "250",
+        "unit": "grams"
+      },
+      {
+        "name":"Philadelphia Style Cream Cheese",
+        "price": "710",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Dlecta Cream Cheese",
+        "price": "330",
+        "vol": "400",
+        "unit": "grams"
+      },
+      {
+        "name": "castor sugar",
+        "price": "61",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+    {
+      "name": "Mawana castor sugar",
+      "price": "130",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  {
+    "name": "Mawana brown sugar",
+    "price": "130",
+    "vol": "1000",
+    "unit": "grams"
+  }
+,
+      {
+        "name": "brown sugar",
+        "price": "85",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+     
+      {
+        "name": "invert sugar",
+        "price": "44.14",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+    {
+      "name": "liquid sorbitol",
+      "price": "114",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  {
+    "name": "Dextrose powder",
+    "price": "1513",
+    "vol": "1000",
+    "unit": "grams"
+  },
+  {
+    "name": "Sorbitol Powder",
+    "price": "2300",
+    "vol": "1000",
+    "unit": "grams"
+  },
+  {
+    "name":"Van Houten dark chocolate callets",
+    "price": "828",
+    "vol": "1500",
+    "unit": "grams"
+  },
+      {
+        "name":"dark chocolate",
+        "price": "1065",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Van Houten white chocolate",
+        "price": "675",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"white chocolate",
+        "price": "1055",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"milk chocolate",
+        "price": "980",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Elvesia 74%",
+        "price": "2110",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Arriba 72%",
+        "price": "1750",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Salted Peanuts",
+        "price": "325",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":"Nutella",
+        "price": "380",
+        "vol": "350",
+        "unit": "grams"
+      },
+      {
+        "name":"Mala Blueberry compote",
+        "price": "500",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name": "Bake Heaven liquid glucose",
+        "price": "75",
+        "vol": "200",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name": "liquid glucose",
+        "price": "85",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+    
+      {
+        "name":"honey",
+        "price": "342",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    , 
+   
+      {
+        "name": "raisin dark",
+        "price": "160",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":  "candid orange",
+        "price": "495",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":   "rum",
+        "price": "820",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":"almond",
+        "price": "735",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":   "almond flour",
+        "price": "890",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":  "wheat flour",
+        "price": "22",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":   "Sarwar baking soda",
+        "price": "30",
+        "vol": "80",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":   "baking soda",
+        "price": "32",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":  "egg white",
+        "price": "5",
+        "vol": "30",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":"egg yolk",
+        "price": "5",
+        "vol": "20",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name":   "Dessicated Coconut",
+        "price": "276.50",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+    {
+      "name":  "Otekar's peanut butter",
+      "price": "99",
+      "vol": "220",
+      "unit": "grams"
+    }
+  ,
+      {
+        "name":  "peanut butter",
+        "price": "126",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+      {
+        "name": "Pistachio",
+        "price": "1395",
+        "vol": "1000",
+        "unit": "grams"
+      }
+    ,
+ 
+      {
+        "name":   "Gluten",
+        "price": "250",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":   "Bread Improver",
+        "price": "375",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":   "Cheddar cheese",
+        "price": "670",
+        "vol": "1000",
+        "unit": "grams"
+      },
+      {
+        "name":   "Fresh Yeast",
+        "price": "115",
+        "vol": "1000",
+        "unit": "grams"
+      },
+     
+    {
+      "name": "Dried Cranberries",
+      "price": "400",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  
+    {
+      "name":"orange juice",
+      "price": "83",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+ 
+    {
+      "name": "orange zest",
+      "price": "215",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+ 
+    {
+      "name": "pectin",
+      "price": "5250",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  {
+    "name": "Eurofoods pectin",
+    "price": "160",
+    "vol": "100",
+    "unit": "grams"
+  }
+,
+  
+    {
+      "name":"ginger powder",
+      "price": "199",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  {
+    "name":"coffee powder",
+    "price": "596",
+    "vol": "200",
+    "unit": "grams"
+  }
+,
+  {
+    "name":"Vinegar",
+    "price": "70",
+    "vol": "750",
+    "unit": "grams"
+  }
+,
+  
+    {
+      "name":"golden syrup",
+      "price": "262",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  
+    {
+      "name": "cocao nibs",
+      "price": "1550",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+  
+    {
+      "name":"almond flakes",
+      "price": "800",
+      "vol": "1000",
+      "unit": "grams"
+    }
+  ,
+    {
+      "name":"sweet paste",
+      "price": "146",
+      "vol": "930",
+      "unit": "grams"
+    } ,
+    {
+      "name": "walnut",
+      "price": "800",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name":  "oil",
+      "price": "95",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  
+    {
+      "name":"figs",
+      "price": "700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+ 
+    {
+      "name": "lemon",
+      "price": "100",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  
+    
+
+    {
+      "name":  "mazipan",
+      "price": "1700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  
+    {
+      "name":"jaggery",
+      "price": "100",
+      "vol": "1000",
+      "unit": "grams"
+    },
+
+    {
+      "name":  "corn flour",
+      "price": "76.50",
+      "vol": "1000",
+      "unit": "grams"
+    },
+  
+    {
+      "name":"cream of tarter",
+      "price": "760",
+      "vol": "1000",
+      "unit": "grams"
+    },
+ 
+    {
+      "name": "almond essence",
+      "price": "453",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    
+    {
+      "name": "Corman dry butter",
+      "price": "1100",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Hazelnuts",
+      "price": "787",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Gianduja White Shredded Coconuts",
+      "price": "1200",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Pistachiosa",
+      "price": "2700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Mangonosa",
+      "price": "1680",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Milk Powder",
+      "price": "371",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "water",
+      "price": "0",
+      "vol": "1",
+      "unit": "grams"
+    },
+    {
+      "name": "wheat bran",
+      "price": "146",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "dark malt",
+      "price": "495",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Neropan",
+      "price": "495",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Amul Yogurt",
+      "price": "74",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Yogurt",
+      "price": "150",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Flax seeds",
+      "price": "135",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Poppy seeds",
+      "price": "750",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Sesame seeds black",
+      "price": "170",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Sesame seeds white",
+      "price": "220",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "sunflower",
+      "price": "195",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "pumpkin seeds",
+      "price": "200",
+      "vol": "500",
+      "unit": "grams"
+    },
+    {
+      "name": "oats",
+      "price": "172",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "olive oil",
+      "price": "406",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "light rye flour",
+      "price": "250",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "caraway seeds",
+      "price": "480",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "dark rye flour",
+      "price": "330",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "cocao butter",
+      "price": "1850",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "flaky wafers",
+      "price": "1235",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Slivered Almonds",
+      "price": "1235",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Hazelnut Paste Felchin",
+      "price": "1750",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Vanilla Bean",
+      "price": "52000",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Rasberry Puree",
+      "price": "650",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Mango Puree",
+      "price": "700",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "coconut Puree",
+      "price": "750",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Passion Puree",
+      "price": "725",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Praline Paste",
+      "price": "248",
+      "vol": "540",
+      "unit": "grams"
+    },
+    {
+      "name": "Sea Salt",
+      "price": "1600",
+      "vol": "1000",
+      "unit": "grams"
+    } ,
+    {
+      "name": "Gelatin",
+      "price": "2861",
+      "vol": "1000",
+      "unit": "grams"
+    } ,
+    {
+      "name": "Agar agar",
+      "price": "2861",
+      "vol": "1000",
+      "unit": "grams"
+    } ,
+    {
+      "name": "Apricot Puree",
+      "price": "530",
+      "vol": "1000",
+      "unit": "grams"
+    } ,
+    {
+      "name": "Apricot Fruit",
+      "price": "530",
+      "vol": "1000",
+      "unit": "grams"
+    },
+    {
+      "name": "Dira Frozen Strawberry",
+      "price": "1614",
+      "vol": "2500",
+      "unit": "grams"
+    }
+
+
+
+    
+]
+  
+
